@@ -7,7 +7,7 @@ A ToDO app for your daily works reminder.
 This project is a starting point for a Flutter application.
 
 App tour
-![home screen](https://user-images.githubusercontent.com/76204115/184292947-19e9ebcb-3e8a-4e80-a2e0-12f6f73d33b1.jpg)
+<img srcs ="https://user-images.githubusercontent.com/76204115/184292947-19e9ebcb-3e8a-4e80-a2e0-12f6f73d33b1.jpg" width="200" height="400"/>
 
 
 
